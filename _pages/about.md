@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! 👋 I’m Tong Xie, CEO and Founder of [Green Dynamics](https://www.greendynamics.com.au) and Adjunct Lecturer at [UNSW Sydney](https://www.unsw.edu.au/staff/tong-xie). I co-lead the [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f) group with [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex). I completed my PhD in Photovoltaics Materials and Computer Science at UNSW Sydney 🇦🇺 in 2025. Prior to that, I earned my Bachelor’s degree from Monash University (First Class Honours), where I completed my final-year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak), and Central South University (China).
+Hi there! 👋 I’m Tong Xie, CEO and Founder of [Green Dynamics](https://www.greendynamics.com.au) and Adjunct Lecturer at [UNSW Sydney](https://www.unsw.edu.au/staff/tong-xie). I co-lead the [UNSW AI4Science](https://masterai-science.notion.site/) group with [Bram Hoex](https://www.unsw.edu.au/staff/bram-hoex). I completed my PhD in Photovoltaics Materials and Computer Science at UNSW Sydney 🇦🇺 in 2025. Prior to that, I earned my Bachelor’s degree from Monash University (First Class Honours), where I completed my final-year project with [Jacek Jasieniak](https://www.monash.edu/engineering/jacekjasieniak), and Central South University (China).
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Interests:</span>
 
@@ -19,7 +19,7 @@ Reviewer for Nature Chemistry, Nature Comm, JACS, NeurIPS, ICLR, ACL, EMNLP and 
 
 Member of the Australian Academy of Technological Sciences and Engineering - IMNIS Program.
 
-My research group, [UNSW AI4Science](https://unswai4s.notion.site/All-about-MasterAI-UNSW-AI4Science-1f4a59fe367b8131a72ec586362d930f), has received funding from the Australian Centre for Advanced Photovoltaics (ACAP), the Australian Renewable Energy Agency (ARENA), Microsoft Research, Swiss AI Center and others. Details you can see the group page.
+My research group, [UNSW AI4Science](https://masterai-science.notion.site/), has received funding from the Australian Centre for Advanced Photovoltaics (ACAP), the Australian Renewable Energy Agency (ARENA), Microsoft Research, Swiss AI Center and others. Details you can see the group page.
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Selected Honours:</span>
 
