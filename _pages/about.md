@@ -23,6 +23,7 @@ My research group, [UNSW AI4Science](https://masterai-science.notion.site/), has
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">Selected Honours:</span>
 
+- [2026] UNSW featured GreenDynamics: [GreenDynamics uses AI to close the loop between the virtual and physical worlds](https://www.unsw.edu.au/news/2026/08/greendynamics-uses-ai-to-close-the-loop-between-the-virtual-and-physical-worlds).
 - [2025] My recent comment about Deepseek-math v2 got featured on [Nature](https://www.nature.com/articles/d41586-025-03959-9).
 - [2025] I won ⭐ Top Choice Award ⭐  for the Supercharge Australia Innovation Challenge! Thx Energy Lab and New Energy Nexus.
 - [2025] I won ELICE Innovation Champion Award! Thx ACAP & NFACR
