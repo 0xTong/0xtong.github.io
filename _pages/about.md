@@ -15,7 +15,7 @@ AI for Science, Large Language Models (LLMs), Self-Driving Labs, Nano Thin Films
 
 <span style="color: green; font-weight: bold; font-family: sans-serif;">My Current Service and Leadership:</span>
 
-Reviewer for Nature Chemistry, Nature Comm, JACS, NeurIPS, ICLR, ACL, EMNLP and so on.
+Reviewer and Area Chair (AC) for Nature Chemistry, Nature Comm, JACS, NeurIPS, ICLR, ACL, EMNLP and so on.
 
 Member of the Australian Academy of Technological Sciences and Engineering - IMNIS Program.
 
